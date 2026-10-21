@@ -1,0 +1,11 @@
+{
+  "org": "glue-viz",
+  "repo": "state-based-viewer",
+  "versions": [
+    {
+      "commit": "4a38f6190388f07bfd1f88bcdda5d782e9c60139",
+      "tag": "",
+      "parsed_at": "2026-10-21T22:19:39.461613+00:00"
+    }
+  ]
+}
